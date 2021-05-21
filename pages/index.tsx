@@ -26,11 +26,12 @@ export default function Home() {
       </Link>
 
       <a href="/hello">
-          goto hello
+          goto helloasdasdasdasdasdasdasd
       </a>
 
 
-      
+
+      a
         </h1>
 
         <p className={styles.description}>
